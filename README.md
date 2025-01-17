@@ -12,7 +12,7 @@ From paper:
   <img src="https://github.com/user-attachments/assets/f001a6b2-7c60-442a-89b3-9a9d8eac113b" alt="Scanline Example"/>
 </p>
 
-### Example of Model Output on Test:
+### Example of Input Spike Trains on Test:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/30517cfd-4750-4f38-8752-39edb33f64f8" alt="Spike Times Example"/>
