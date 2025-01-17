@@ -1,5 +1,9 @@
 # In Plane Sight: Scanlines for Spiking Neural Networks
 
+### Full Assignment Doc:
+
+[**Link to PDF**](https://github.com/pip-py/mres_ips_scanline_snn/blob/main/In_Plane_Sight_JM_AMBAI_v3.pdf)
+
 From paper:
 
 ### Scanline Example
@@ -15,6 +19,3 @@ From paper:
 </p>
 
 
-### Full Assignment Doc:
-
-[**Link to PDF**](https://github.com/pip-py/mres_ips_scanline_snn/blob/main/In_Plane_Sight_JM_AMBAI_v3.pdf)
